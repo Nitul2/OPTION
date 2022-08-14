@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+    background-color: palevioletred;
+    color: black;
+}
+
+button {
+    border: 1px solid black;
+    background-color: rgb(134, 225, 241);
+    border-radius: 5px;
+    padding: 10px;
+    width: 100px;
+    margin-left: 20px;
+    font-weight: 600;
+
+}
